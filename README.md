@@ -1,7 +1,7 @@
 VolleySample
 ===================================
 
->This project is a sample for using Volley library in your project.I have used few method of Volley in this project such as:
+>This project is a sample for using Volley library in your project.I have used few methods of Volley in this project such as:
 
 - StringRequest
 - StringRequest with Post
