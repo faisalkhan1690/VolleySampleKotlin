@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VolleySample</string>
+    <string name="click_for_string_request">Click for String Request</string>
+    <string name="click_for_image_request">Click for Image Request</string>
+    <string name="click_for_Json_request">Click for Json Request</string>
+    <string name="result">Result</string>
+    <string name="click_for_Json_with_custom_model">Click For Json with custom Model</string>
+    <string name="click_for_string_request_post">Click for String Request POST</string>
+    <string name="cancel_last_request">Cancel Last Request</string>
+    <string name="cancel_all_requests">Cancel All requests</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="custom_json_request_with_cookies">Custom Json Request With Cookies</string>
+</resources>
