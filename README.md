@@ -3,7 +3,7 @@ VolleySample
 
 >This project is a sample for using Volley library in your project.I have used few method of Volley in this project such as:
 
-- StringRequest\n
+- StringRequest
 - StringRequest with Post
 - ImageRequest
 - JsonObjectRequest
