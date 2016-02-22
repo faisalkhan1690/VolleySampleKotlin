@@ -25,7 +25,7 @@ Pre-requisites
 
 How to install Volley In your Project
 --------------
-1. Check out from this [GitLink](Link https://android.googlesource.com/platform/frameworks/volley).
+1. Check out from this link https://android.googlesource.com/platform/frameworks/volley
 2. Then in Android Studio File --> New --> Import Module --> then select and add in dependencies like compile project(':volley')
 3. build the gradle.
 
